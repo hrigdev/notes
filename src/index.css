@@ -1,0 +1,10 @@
+.form_input{
+  display: flex;
+  flex-direction: column;
+}
+
+.form_input input{
+  border: none;
+  outline: none;
+
+}
